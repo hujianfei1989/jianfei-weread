@@ -1,0 +1,6 @@
+.weread-accounts.json
+weread-export/
+__pycache__/
+*.pyc
+*.key
+*.token
